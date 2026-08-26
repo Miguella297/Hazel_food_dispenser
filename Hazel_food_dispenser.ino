@@ -3,7 +3,7 @@
 Servo myServo;
 
 const int servoPin = 8;
-const int stepDelay = 12;   // controls speed - lower = faster
+const int stepDelay = 13;   // controls speed - lower = faster
 
 void setup() {
   myServo.attach(servoPin);
