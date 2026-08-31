@@ -11,7 +11,7 @@ void setup() {
   delay(300);
 
   // rotate 0 -> 180
-  for (int pos = 0; pos <= 180; pos++) {
+  for (int pos = 0; pos <= 180; pos++ {
     myServo.write(pos);
     delay(stepDelay);
   }
@@ -20,7 +20,7 @@ void setup() {
   for (int pos = 180; pos >= 0; pos --) {
     myServo.write(pos);
     delay(stepDelay);
-  }  
+  }
 }
 
 void loop() {
