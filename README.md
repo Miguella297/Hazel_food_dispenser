@@ -34,6 +34,6 @@ cable.
  ![more](pic4.jpg)
 
 My demo video for the project
-https://drive.google.com/file/d/1jf_Q6Q5r2Gviue23NL33rTRQFVI-dQno/view?usp=sharing
+
 
 https://drive.google.com/file/d/1jf_Q6Q5r2Gviue23NL33rTRQFVI-dQno/view?usp=sharing
