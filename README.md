@@ -10,16 +10,16 @@ A motion type activated dog food dispenser that was indeed built with an Arduino
 An Arduino UNO is powered up by code on the Arduino IDE. The Arduino uno powers up a servo which horn rotates the dispenser to poor out dog food kebbles. Right now, the servo must be held in one hand in order to rotate the dispenser, but I will soon change that.
 
 # Bill of materials
-Arduino Uno
-SG90 Servo Motor
-Cardboard
-Rope
-Popsicle sticks
-Elastic bands
-Hot glue
-dog food
-Jumper wires
-cable
+Arduino Uno,
+SG90 Servo Motor,
+Cardboard,
+Rope,
+Popsicle sticks,
+Elastic bands,
+Hot glue,
+dog food,
+Jumper wires,
+cable,
 
  No Board files or schematic  PDF is found because a good majority of the project is made from straight cardboard material. There are as well the Arduino Uno, the servo motors, and more.
  
