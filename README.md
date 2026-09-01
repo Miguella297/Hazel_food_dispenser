@@ -32,6 +32,8 @@ The dispenser body and funnel were constructed from cardboard, with a popsicle-s
 
 Two working dispensers were built, with the second benefiting from lessons learned during the first build — particularly around funnel sizing for larger kibble.
 Jot something down
-
-<video controls src="Dog food dispenser demo-1.mp4" title="Title"></video>
-
+ 
+![food dispenser](pic1.png)
+![supplies](pic2.png)
+![Dispenser front view](pic3.png)
+![Dispenser in action](pic4.png)
