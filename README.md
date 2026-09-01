@@ -38,4 +38,4 @@ Jot something down
 ![Dispenser front view](pic3.jpg)
 ![Dispenser in action](pic4.jpg)
 
-No Board files or Schematic PDF is found because the project elements were mostly cardboard
+No Board files or Schematic PDF is found because a good majority the project elements were cardboard. There was also an arduino uno and servo motors.
