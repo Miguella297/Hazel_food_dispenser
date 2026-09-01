@@ -28,3 +28,5 @@ cable.
  ![full](pic3.jpg)
  ![more](pic4.jpg)
 
+[Watch the demo video](Dogfooddispenderdemo.mp4)
+
