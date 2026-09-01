@@ -37,3 +37,5 @@ Jot something down
 ![supplies](pic2.jpg)
 ![Dispenser front view](pic3.jpg)
 ![Dispenser in action](pic4.jpg)
+
+No Board files or Schematic PDF is found because the project elements were mostly cardboard
