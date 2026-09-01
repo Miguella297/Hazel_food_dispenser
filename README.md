@@ -1,3 +1,8 @@
+
+
+
+
+
 ## Hazel food dispenser
 This is a medium sized project for my dog, her name is Hazel.
 
@@ -27,6 +32,8 @@ cable.
  ![progress](pic2.jpg)
  ![full](pic3.jpg)
  ![more](pic4.jpg)
+ 
+https://github.com/user-attachments/assets/187428cb-b8e8-40d5-a0a3-bf0c37cd3ce
 
 [Watch the demo video](Dogfooddispenderdemo.mp4)
 
