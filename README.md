@@ -34,5 +34,5 @@ cable.
  ![more](pic4.jpg)
 
 
-https://github.com/user-attachments/assets/187428cb-b8e8-40d5-a0a3-bf0c37cd3ce
+https://drive.google.com/file/d/1jf_Q6Q5r2Gviue23NL33rTRQFVI-dQno/view?usp=sharing
 
