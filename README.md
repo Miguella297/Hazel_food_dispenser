@@ -19,9 +19,9 @@ Elastic bands,
 Hot glue,
 dog food,
 Jumper wires,
-cable,
+cable.
 
- No Board files or schematic  PDF is found because a good majority of the project is made from straight cardboard material. There are as well the Arduino Uno, the servo motors, and more.
+ No Board files or schematic  PDF is found because a good majority of the project is made from straight cardboard material. There are as well the Arduino Uno, the servo motors, and a little more.
  
  ![food dispenser](pic1.jpg)
  ![progress](pic2.jpg)
