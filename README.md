@@ -17,6 +17,7 @@ A motion-activated dog food dispenser built with an Arduino Uno, a PIR motion se
 The dispenser body and funnel were constructed from cardboard, with a popsicle-stick arm connecting the servo horn to the flap mechanism, and tape used for reinforcement and assembly. During testing, the original funnel opening was too narrow for the kibble size being used, so the funnel was widened to allow consistent, jam-free flow.
 
 ## Bill of Materials
+Coded on the arduino IDE code editor.
 
 | Item | Quantity | Notes |
 |---|---|---|
