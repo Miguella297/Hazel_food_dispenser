@@ -30,3 +30,38 @@ cable.
 
 [Watch the demo video](Dogfooddispenderdemo.mp4)
 
+# Assembly instructions
+
+1> **Build the body**
+Assemble a cardboard box to form the main body of the dispenser (8 by 8cm typically)
+
+2> **Build the funnel**
+Cut out and fold cardboard into a funnel shape wide at the top. Same dimensions as the cardboard box
+
+3> **Cut the dispensing opening**
+Cut an opening at the bottle of the funnel however wide you would like but still smaller than the top of the funnel.
+
+4> **Build the level/gate mechanism**
+Construct a lever or flap that blocks the opening when at rest( use string, its the easiest)
+
+5> **Mount the servo**
+Attach the servo to the body, positioned so its horn can pull the string down as showed in teh demo video
+
+6> **Attach the string to the servo horn**
+Tie or glue the string to the servo horn so tgar when the servo rotates, the mechanism of the dispenser (funnel) moves downward.
+
+7> **Wire the electronics**
+Instructions and wiring diagram will be found in the repo.
+-Servo signal twice
+-Servo power ground
+-PIR sensor VCC
+
+8> **Upload the code**
+Program the Arduino so that motion detected by the PIR sensor triggers the code.
+
+9> **Test and callibrate**
+Test with actual kibble - adjust funnel width, lever gap, and servo pull distance
+
+10> **Decorate**
+Add any artwork or designs of your desires (makes sure they are appropriate).
+
