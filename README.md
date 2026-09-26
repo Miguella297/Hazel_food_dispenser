@@ -36,7 +36,7 @@ cable.
 My demo video for the project
 
 <<<<<<< HEAD
-# Assembly instructions
+# Assemble instructions
 
 1> **Build the body**
 Assemble a cardboard box to form the main body of the dispenser (8 by 8cm typically)
