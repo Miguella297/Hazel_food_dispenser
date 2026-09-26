@@ -45,10 +45,10 @@ Assemble a cardboard box to form the main body of the dispenser (8 by 8cm typica
 Cut out and fold cardboard into a funnel shape wide at the top. Same dimensions as the cardboard box
 
 3> **Cut the dispensing opening**
-Cut an opening at the bottle of the funnel however wide you would like but still smaller than the top of the funnel.
+Cut an opening at the bottom of the funnel however wide you would like but still smaller than the top of the funnel.
 
 4> **Build the level/gate mechanism**
-Construct a lever or flap that blocks the opening when at rest( use string, its the easiest)
+Construct a lever or flap that blocks the opening when at rest. This step is optional, I made mine out of cardboard.
 
 5> **Mount the servo**
 Attach the servo to the body, positioned so its horn can pull the string down as showed in teh demo video
