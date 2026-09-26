@@ -1,3 +1,8 @@
+
+
+
+
+
 ## Hazel food dispenser
 This is a medium sized project for my dog, her name is Hazel.
 
@@ -28,8 +33,9 @@ cable.
  ![full](pic3.jpg)
  ![more](pic4.jpg)
 
-[Watch the demo video](Dogfooddispenderdemo.mp4)
+My demo video for the project
 
+<<<<<<< HEAD
 # Assembly instructions
 
 1> **Build the body**
@@ -60,8 +66,9 @@ Instructions and wiring diagram will be found in the repo.
 Program the Arduino so that motion detected by the PIR sensor triggers the code.
 
 9> **Test and callibrate**
-Test with actual kibble - adjust funnel width, lever gap, and servo pull distance
+Test the project
 
 10> **Decorate**
 Add any artwork or designs of your desires (makes sure they are appropriate).
+
 
