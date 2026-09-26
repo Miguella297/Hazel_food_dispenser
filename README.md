@@ -39,10 +39,10 @@ My demo video for the project
 # Assemble instructions
 
 1> **Build the body**
-Assemble a cardboard box to form the main body of the dispenser (8 by 8cm typically)
+Assemble a cardboard box to form the main body of the dispenser (8 by 8 by 10cm typically)
 
 2> **Build the funnel**
-Cut out and fold cardboard into a funnel shape wide at the top. Same dimensions as the cardboard box
+Cut out and fold cardboard into a funnel shape wide at the top. 
 
 3> **Cut the dispensing opening**
 Cut an opening at the bottom of the funnel however wide you would like but still smaller than the top of the funnel.
@@ -51,10 +51,10 @@ Cut an opening at the bottom of the funnel however wide you would like but still
 Construct a lever or flap that blocks the opening when at rest. This step is optional, I made mine out of cardboard.
 
 5> **Mount the servo**
-Attach the servo to the body, positioned so its horn can pull the string down as showed in teh demo video
+Attach the servo to the body, positioned so its horn can pull the string down as showed in the demo video
 
 6> **Attach the string to the servo horn**
-Tie or glue the string to the servo horn so tgar when the servo rotates, the mechanism of the dispenser (funnel) moves downward.
+Tie or glue the string to the servo horn so when the servo rotates, the mechanism of the dispenser (funnel) moves downward.
 
 7> **Wire the electronics**
 Instructions and wiring diagram will be found in the repo.
@@ -71,4 +71,4 @@ Test the project
 10> **Decorate**
 Add any artwork or designs of your desires (makes sure they are appropriate).
 
-
+ ![food dispenser](wiring_diagram.jpg)
