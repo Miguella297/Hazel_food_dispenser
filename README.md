@@ -42,10 +42,10 @@ My demo video for the project
 Assemble a cardboard box to form the main body of the dispenser (8 by 8 by 10cm typically)
 
 2> **Build the funnel**
-Cut out and fold cardboard into a funnel shape wide at the top. 
+Cut out and fold cardboard into a funnel shape wide at the top. (8 by 8 cm) then attach to the inside of the cardboard box.
 
 3> **Cut the dispensing opening**
-Cut an opening at the bottom of the funnel however wide you would like but still smaller than the top of the funnel.
+Cut an opening at the bottom of the funnel however wide you would like but still smaller than the top of the funnel. I suggest 4 by 4 cm.
 
 4> **Build the level/gate mechanism**
 Construct a lever or flap that blocks the opening when at rest. This step is optional, I made mine out of cardboard.
@@ -70,5 +70,8 @@ Test the project
 
 10> **Decorate**
 Add any artwork or designs of your desires (makes sure they are appropriate).
+
+
+# Wiring diagram
 
  ![food dispenser](wiring_diagram.jpg)
