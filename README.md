@@ -40,8 +40,8 @@ My demo video for the project
 <<<<<<< HEAD
 # Assemble instructions
 
-1> **Build the body**
-Assemble a cardboard box to form the main body of the dispenser (8 by 8 by 10cm typically)
+1> **Building the body**
+Assemble a cardboard box to form the central body of the dispenser (8 by 8 by 10cm typically)
 
 2> **Build the funnel**
 Cut out and fold cardboard into a funnel shape wide at the top. (8 by 8 cm) then attach to the inside of the cardboard box.
@@ -53,7 +53,7 @@ Cut an opening at the bottom of the funnel however wide you would like but still
 Construct a lever or flap that blocks the opening when at rest. This step is optional, I made mine out of cardboard.
 
 5> **Mount the servo**
-Attach the servo to the body, positioned so its horn can pull the string down as showed in the demo video
+Attach the servo to the body, positioned so its horn can easily pull the string down as seen in the demo video.This is the main mechanism of the dispenser
 
 6> **Attach the string to the servo horn**
 Tie or glue the string to the servo horn so when the servo rotates, the mechanism of the dispenser (funnel) moves downward.
@@ -62,15 +62,11 @@ Tie or glue the string to the servo horn so when the servo rotates, the mechanis
 Instructions and wiring diagram will be found in the repo.
 -Servo signal twice
 -Servo power ground
--PIR sensor VCC
 
-8> **Upload the code**
-Program the Arduino so that motion detected by the PIR sensor triggers the code.
-
-9> **Test and callibrate**
+8> **Test and callibrate**
 Test the project
 
-10> **Decorate**
+9> **Decorate**
 Add any artwork or designs of your desires (makes sure they are appropriate).
 
 
